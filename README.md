@@ -1,0 +1,2 @@
+# dbstraining
+sonar  and jenkins
